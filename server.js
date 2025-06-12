@@ -4,7 +4,7 @@ import path from "path";
 const server = express();
 
 // ISSUE: Port 3000 doesn't work for some reason. This does though.
-const port = 6969;
+const port = 8080;
 
 const __dirname = import.meta.dirname;
 
